@@ -1,4 +1,4 @@
-# Project: RNN-Binary-Classification-imdb-reviews-sentiment-analysis
+# Project: IMDB Reviews Sentiment Analysis
 
 Project Overview:
 This project focuses on building a Recurrent Neural Network (RNN) model to classify IMDB movie reviews as positive or negative. The project leverages a Simple RNN architecture to process sequences of text data. By utilizing the IMDB dataset, which is pre-encoded, the model aims to predict sentiment based on review content.
